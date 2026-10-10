@@ -1,0 +1,6 @@
+{
+  "name": "WanderLust AI - Penang & Global Travel Planner",
+  "description": "Next-generation AI travel planner and intelligent concierge featuring discovery search, interactive Penang destination gallery, timeline itineraries, and smart travel assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
